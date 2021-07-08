@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/todo-bitcot/static/css/main.c1390279.chunk.css",
-    "main.js": "/todo-bitcot/static/js/main.7ca0dc17.chunk.js",
-    "main.js.map": "/todo-bitcot/static/js/main.7ca0dc17.chunk.js.map",
+    "main.js": "/todo-bitcot/static/js/main.7504fd27.chunk.js",
+    "main.js.map": "/todo-bitcot/static/js/main.7504fd27.chunk.js.map",
     "runtime-main.js": "/todo-bitcot/static/js/runtime-main.b3f9dfcb.js",
     "runtime-main.js.map": "/todo-bitcot/static/js/runtime-main.b3f9dfcb.js.map",
     "static/js/2.14956c8b.chunk.js": "/todo-bitcot/static/js/2.14956c8b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b3f9dfcb.js",
     "static/js/2.14956c8b.chunk.js",
     "static/css/main.c1390279.chunk.css",
-    "static/js/main.7ca0dc17.chunk.js"
+    "static/js/main.7504fd27.chunk.js"
   ]
 }
