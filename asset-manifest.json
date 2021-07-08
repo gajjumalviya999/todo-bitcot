@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-bitcot/static/css/main.539017eb.chunk.css",
+    "main.js": "/todo-bitcot/static/js/main.956dd790.chunk.js",
+    "main.js.map": "/todo-bitcot/static/js/main.956dd790.chunk.js.map",
+    "runtime-main.js": "/todo-bitcot/static/js/runtime-main.6aced518.js",
+    "runtime-main.js.map": "/todo-bitcot/static/js/runtime-main.6aced518.js.map",
+    "static/js/2.e8e8152f.chunk.js": "/todo-bitcot/static/js/2.e8e8152f.chunk.js",
+    "static/js/2.e8e8152f.chunk.js.map": "/todo-bitcot/static/js/2.e8e8152f.chunk.js.map",
+    "static/js/3.f824dab0.chunk.js": "/todo-bitcot/static/js/3.f824dab0.chunk.js",
+    "static/js/3.f824dab0.chunk.js.map": "/todo-bitcot/static/js/3.f824dab0.chunk.js.map",
+    "index.html": "/todo-bitcot/index.html",
+    "static/css/main.539017eb.chunk.css.map": "/todo-bitcot/static/css/main.539017eb.chunk.css.map",
+    "static/js/2.e8e8152f.chunk.js.LICENSE.txt": "/todo-bitcot/static/js/2.e8e8152f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aced518.js",
+    "static/js/2.e8e8152f.chunk.js",
+    "static/css/main.539017eb.chunk.css",
+    "static/js/main.956dd790.chunk.js"
+  ]
+}
